@@ -33,7 +33,7 @@ education:
       year: ""
     - course: BS in Electrical Engineering
       institution: Kings Saud University, Saud Arabia
-      year: -2
+      year: ""
 email: abinrabi@purdue.edu
 superuser: true
 highlight_name: true
