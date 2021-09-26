@@ -39,18 +39,4 @@ Hello all! I am Ahmad Bin Rabiah, a master's of science student in Electrical an
 
 Prviously, I have worked on signal processing and wireless communication systems in an applied advanced research lab in Saudi Arabia. Before that, I graduated from King Saud University with a BS in electrical engineering minor in communication systems with a focus on signal processing, where I was lucky to be worked and published my first research work advised by Omar Aldayel And Saleh AlShebeili.
 
-
-
-
-
-
-
-
-
-
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
