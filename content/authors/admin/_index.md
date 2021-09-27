@@ -35,9 +35,9 @@ email: abinrabi@purdue.edu
 superuser: true
 highlight_name: true
 ---
-I am Ahmad Bin Rabiah, a master's of science student in Electrical and Computer Engieneering at Purdue University. I am interseted in teaching machines to solve visual problems with inlabeled cases and results a creative understanding of the real world to emerge. I am also itereseted in machine learning, understanding visuals with another domain such as voice, and interaction as they relate to this. 
+I am Ahmad Bin Rabiah, a master's of science student in Electrical and Computer Engineering at Purdue University. I am interested in teaching machines to solve visual problems with unlabeled cases, resulting in a creative understanding of the real-world emerging. I am also interested in machine learning, understanding visuals with another domain such as voice, and interaction as they relate to this. 
 
-Prviously, I have worked on signal processing and wireless communication systems in an applied advanced research lab in Saudi Arabia. Before that, I graduated from King Saud University with a BS in electrical engineering minor in communication systems with a focus on signal processing, where I was lucky to be worked and published my first research work advised by Omar Aldayel And Saleh AlShebeili.
+Previously, I have worked on signal processing and wireless communication systems in an applied advanced research lab in Saudi Arabia. Before that, I graduated from King Saud University with a BS in electrical engineering minor in communication systems with a focus on signal processing, where I was lucky to be worked and published my first research work advised by Omar Aldayel And Saleh AlShebeili.
 
 Besides research, I enjoy swimming, freewriting, speeching, and watching documentaries.
 
