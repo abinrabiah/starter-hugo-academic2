@@ -4,9 +4,9 @@ role: Master of Science student in Purdue University
 bio: My interests includes data-driven computer vision, artificial intelligence,
   machine learning, and modeling.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data-driven Computer Vision
+  - Machine Learning
+  - Vision + other Domain Emerging
 social:
   - icon: envelope
     icon_pack: fas
