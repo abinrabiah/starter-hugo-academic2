@@ -32,7 +32,7 @@ url_pdf: ""
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
   filename: haiku-image-1-.png
 summary: ""
 url_dataset: ""
