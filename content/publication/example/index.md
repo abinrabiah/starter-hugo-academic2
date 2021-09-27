@@ -1,4 +1,16 @@
 ---
+title: "Haiku: Efficient Authenticated Key Agreement with Strong Security
+  Guarantees for IoT"
+publication_types:
+  - "1"
+authors:
+  - Abdulrahman Bin Rabiah
+  - KK Ramakrishnan
+  - Silas Richelson
+  - admin
+  - Elizabeth Liri
+  - Koushik Kar
+publication_short: ICDCN '21
 abstract: IoT devices often gather critical information that needs to be
   communicated in a secure manner. Authentication and secure communication in an
   IoT environment can be difficult because of constraints, in computing power,
@@ -12,36 +24,25 @@ abstract: IoT devices often gather critical information that needs to be
   network, to save cost or power). We propose a lightweight authentication and
   key exchange protocol for IoT environments that is tailored to handle
   IoT-imposed constraints.
-slides: ""
-url_pdf: ""
-publication_types:
-  - "1"
-authors:
-  - Abdulrahman Bin Rabiah
-  - KK Ramakrishnan
-  - Silas Richelson
-  - admin
-  - Elizabeth Liri
-  - Koushik Kar
-author_notes: []
-publication: "In International Conference on Distributed Computing and Networking 2021 "
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: ICDCN '21
-url_source: ""
-url_video: ""
-title: "Haiku: Efficient Authenticated Key Agreement with Strong Security
-  Guarantees for IoT"
-doi: ""
+draft: true
 featured: true
 tags: []
-projects: []
+slides: ""
+url_pdf: ""
 image:
   caption: ""
   focal_point: ""
   preview_only: false
   filename: haiku-image-1-.png
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes: []
+doi: ""
+publication: "In International Conference on Distributed Computing and Networking 2021 "
+projects: []
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
