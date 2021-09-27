@@ -24,14 +24,11 @@ authors:
   - Elizabeth Liri
   - Koushik Kar
 author_notes: []
-publication: In *Wowchemy Conference*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+publication: "In International Conference on Distributed Computing and Networking 2021 "
+summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In International Conference on Distributed Computing and
-  Networking 2021 (ICDCN '21)
+publication_short: ICDCN '21
 url_source: ""
 url_video: ""
 title: "Haiku: Efficient Authenticated Key Agreement with Strong Security
@@ -45,9 +42,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: haiku-image-1-.png
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
