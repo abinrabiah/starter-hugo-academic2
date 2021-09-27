@@ -39,4 +39,8 @@ I am Ahmad Bin Rabiah, a master's of science student in Electrical and Computer 
 
 Prviously, I have worked on signal processing and wireless communication systems in an applied advanced research lab in Saudi Arabia. Before that, I graduated from King Saud University with a BS in electrical engineering minor in communication systems with a focus on signal processing, where I was lucky to be worked and published my first research work advised by Omar Aldayel And Saleh AlShebeili.
 
+Besides research, I enjoy swimming, freewriting, speeching, and watching documentaries.
+
+
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
