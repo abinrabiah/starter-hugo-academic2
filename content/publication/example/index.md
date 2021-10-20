@@ -24,7 +24,7 @@ abstract: IoT devices often gather critical information that needs to be
   network, to save cost or power). We propose a lightweight authentication and
   key exchange protocol for IoT environments that is tailored to handle
   IoT-imposed constraints.
-draft: true
+draft: false
 featured: true
 tags: []
 slides: ""
