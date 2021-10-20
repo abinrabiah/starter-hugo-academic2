@@ -1,6 +1,7 @@
 ---
 title: Ahmad Bin Rabiah
-role: Master of Science student in Purdue University
+role: Master of Science Student in Purdue University
+avatar_filename: myphoto-1-.jpg
 bio: My interests includes data-driven computer vision, artificial intelligence,
   machine learning, and modeling.
 interests:
