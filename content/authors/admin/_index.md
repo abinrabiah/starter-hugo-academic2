@@ -1,7 +1,7 @@
 ---
 title: Ahmad Bin Rabiah
 role: Master of Science Student
-avatar_filename: myphoto-1-.jpg
+avatar_filename: admin/myphoto-1-.jpg
 bio: My interests includes data-driven computer vision, artificial intelligence,
   machine learning, and modeling.
 interests:
