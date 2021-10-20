@@ -28,7 +28,7 @@ draft: false
 featured: true
 tags: []
 slides: ""
-url_pdf: ""
+url_pdf: "HaikuICDCN.pdf"
 image:
   caption: ""
   focal_point: ""
