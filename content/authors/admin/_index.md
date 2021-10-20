@@ -28,10 +28,10 @@ education:
   courses:
     - course: MS in Electrical and Computer Engineering
       institution: Purdue University
-      year: ""
+      year: -1
     - course: BS in Electrical Engineering
       institution: Kings Saud University, Saud Arabia
-      year: ""
+      year: 2016
 email: abinrabi@purdue.edu
 superuser: true
 highlight_name: true
