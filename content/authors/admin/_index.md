@@ -42,6 +42,6 @@ Previously, I have worked on signal processing and wireless communication system
 
 Besides research, I enjoy swimming, freewriting, speeching, and watching documentaries.
 
-
+ttt
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
